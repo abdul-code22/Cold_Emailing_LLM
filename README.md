@@ -3,9 +3,9 @@ Cold email generator for services company using groq, langchain and streamlit. I
 
 **Imagine a scenario:**
 
-- Nike needs a Principal Software Engineer and is spending time and resources in the hiring process, on boarding, training etc
+- Nike needs a Senior Information Security Engineer, ITC and is spending time and resources in the hiring process, on boarding, training etc
 
-![img.png](imgs/img.png)
+![img.png](imgs/img1.png)
 
 ## Architecture Diagram
 ![img.png](imgs/architecture.png)
